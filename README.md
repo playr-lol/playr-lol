@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<a href="https://discord.com/users/735162090880237619">
+  <img src="https://lanyard.cnrad.dev/api/735162090880237619" align="right" alt="Discord Presence">
+</a>
 <!--
 **playr-lol/playr-lol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
