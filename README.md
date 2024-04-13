@@ -3,7 +3,7 @@
 </a>
 
 # heya.
-# i'm playr!
+i'm playr! i make some random stuff. usually for fun
 <!--
 **playr-lol/playr-lol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
